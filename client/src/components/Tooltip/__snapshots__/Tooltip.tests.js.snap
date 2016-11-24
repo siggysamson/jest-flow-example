@@ -1,0 +1,75 @@
+exports[`Tooltip handles mouse enter 1`] = `
+<div>
+  <div
+    className="">
+    <div>
+      Sample overlay
+    </div>
+  </div>
+  <div
+    className="tooltip__trigger"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}>
+    <div>
+      Wrapped element
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tooltip handles mouse leave 1`] = `
+<div>
+  <div
+    className="tooltip--visible">
+    <div>
+      Sample overlay
+    </div>
+  </div>
+  <div
+    className="tooltip__trigger"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}>
+    <div>
+      Wrapped element
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tooltip renders 1`] = `
+<div>
+  <div
+    className="">
+    <div>
+      Sample overlay
+    </div>
+  </div>
+  <div
+    className="tooltip__trigger"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}>
+    <div>
+      Wrapped element
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tooltip renders with property "visible" 1`] = `
+<div>
+  <div
+    className="tooltip--visible">
+    <div>
+      Sample overlay
+    </div>
+  </div>
+  <div
+    className="tooltip__trigger"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}>
+    <div>
+      Wrapped element
+    </div>
+  </div>
+</div>
+`;

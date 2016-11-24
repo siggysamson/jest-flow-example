@@ -1,0 +1,5 @@
+{
+  "testRegex": "\\.tests\\.js$",
+  "moduleFileExtensions": ["js"],
+  "moduleDirectories": ["node_modules"]
+}
