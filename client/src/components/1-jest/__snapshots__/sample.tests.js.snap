@@ -1,0 +1,43 @@
+exports[`Sample renders 1`] = `
+<div>
+  <button
+    onClick={[Function]}>
+    Click me
+  </button>
+</div>
+`;
+
+exports[`Sample renders with children 1`] = `
+<div>
+  <div />
+  <button
+    onClick={[Function]}>
+    Click me
+  </button>
+</div>
+`;
+
+exports[`Sample renders with title 1`] = `
+<div>
+  <h3>
+    Test
+  </h3>
+  <button
+    onClick={[Function]}>
+    Click me
+  </button>
+</div>
+`;
+
+exports[`Sample renders with title and children 1`] = `
+<div>
+  <h3>
+    Test
+  </h3>
+  <div />
+  <button
+    onClick={[Function]}>
+    Click me
+  </button>
+</div>
+`;
